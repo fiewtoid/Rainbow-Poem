@@ -1,4 +1,4 @@
-The Rainbow and the Unicorn
+The Rainbow and the Unicorn and the Pony
 
 Color1
 Color2
@@ -12,3 +12,4 @@ Color7
 
 These are the colors of a rainbow.
 And the Unicorn
+The pony
