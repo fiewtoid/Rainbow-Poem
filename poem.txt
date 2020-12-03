@@ -6,5 +6,6 @@ Color3
 Color4
 Color6
 Color5
+Color7
 
 These are the colors of a rainbow.
