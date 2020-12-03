@@ -1,11 +1,13 @@
-The Rainbow
+The Rainbow and the Unicorn
 
 Color1
 Color2
 Color3
 Color4
 Color6
+Unicorn
 Color5
 Color7
 
 These are the colors of a rainbow.
+And the Unicorn
